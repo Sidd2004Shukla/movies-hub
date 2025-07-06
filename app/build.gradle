@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ahmedapps.themovies'
+    namespace 'com.siddapps.moviehub'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.ahmedguedmioui.themovies.info"
+        applicationId "com.siddapps.moviehub"
         minSdk 24
         targetSdk 34
         versionCode 1
@@ -30,6 +30,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
