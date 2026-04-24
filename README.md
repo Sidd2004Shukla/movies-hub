@@ -127,7 +127,7 @@ app/src/main/java/com/siddapps/moviehub/
 - **Shimmer Effects**: Loading animations
 - **Pull-to-Refresh**: Smooth refresh gestures
 - **Responsive Layout**: Adapts to different screen sizes
-- **Material You**: Dynamic color theming
+- **Material You**: Dynamic color theming.
 
 ## 🔧 Architecture
 
